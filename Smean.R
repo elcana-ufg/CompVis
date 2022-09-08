@@ -1,5 +1,7 @@
-# R script for image processing from frames extracted from a video file from a chemical reaction
-# inside the directory "/media/run"
+# This script:
+# - Defines ROI dimensions;
+# - Calculates S mean
+# - Saves R mean into a file
 library("imager")
 
 ## Define ROI dimensions horizontal (x) and vertical (y)
