@@ -1,2 +1,2 @@
-# CompVis
-computer vision algorithms
+# RCompVis
+computer vision algorithms using R
