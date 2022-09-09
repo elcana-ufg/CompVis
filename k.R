@@ -20,6 +20,3 @@ k <- runln.fit$coefficients[2]
               
 cont.NaOH <- 0.28
 slope_cont <- k/cont.NaOH 
-
-
-
